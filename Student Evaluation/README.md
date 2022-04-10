@@ -1,4 +1,4 @@
-Student Evaluation is a set of three files, two of which a packages (Student & Marks)
+Student Evaluation is a set of three files, two of which are packages (Student & Marks)
 and the other one (Result) is the main file which contains the driver function.
 
 To use this project
